@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+@font-face {
+  font-family: 'Bebas Neue';
+  src: url(./fonts/BebasNeue-Bold.ttf);
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url(./fonts/OpenSans-Regular.ttf);
+}
+
+@font-face {
+  font-family: 'Tungsten Bold';
+  src: url(./fonts/Tungsten-Bold.ttf);
+}
+
+@font-face {
+  font-family: 'Tungsten Book';
+  src: url(./fonts/Tungsten-Book.ttf);
+}
+
+body {
+  background-image: url(./assets/fondo_bull.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
